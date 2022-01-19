@@ -1,0 +1,8 @@
+
+export const SET_CUPONS = 'SET_CUPONS'
+export const SET_MY_CUPONS = 'SET_MY_CUPONS'
+export const SET_CATEGORY_INFO = 'SET_CATEGORY_INFO'
+export const SET_SELECTED_CUPON = 'SET_SELECTED_CUPON'
+export const SET_COURSE_INFO = 'SET_COURSE_INFO'
+export const SET_SOUND_INFO = 'SET_SOUND_INFO'
+export const SET_SOUND_NAME = 'SET_SOUND_NAME'

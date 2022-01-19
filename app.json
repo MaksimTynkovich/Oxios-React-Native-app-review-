@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Resonance",
+    "slug": "Resonance",
+    "version": "1.0.0",
+    "sdkVersion": "41.0.0",
+    "orientation": "landscape",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {},
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.staxaf.Resonance"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "supportsTablet": true
+    }
+  }
+}

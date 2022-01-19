@@ -1,0 +1,129 @@
+{
+    "translation": {
+        "ChangeLanguageScreen": {
+            "ChooseLang": "Choose your language"
+        },
+        "LoginScreen": {
+            "auth_title": "User authorization",
+            "auth_log": "E-mail or Nickname",
+            "auth_pass": "Password",
+            "btn_enter": "Login",
+            "Copyright": "Copyright (C) 2021 Resonance. All right reserved",
+            "modal_error1": "Incorrect password!",
+            "modal_error2": "Please, try again."
+        },
+        "SubscribeScreen": {
+            "sub_title": "Choose subscribtion plan",
+            "sub_howbutton": "HOW TO BUY?",
+            "modal_title": "User’s manual"
+        },
+        "SubscribeDetailScreen": {
+            "sub_title": "Choose subscribtion plan",
+            "sub_howbutton": "HOW TO ACTIVATE?",
+            "sub_freebtn": "TRY FOR FREE",
+            "sub_modal_btn": "SUBSCRIBE",
+            "sub_modal_subtitle": "Beauty&Salon Pack",
+            "sub_modal_rules": "Terms and conditions",
+            "sub_modal_rules1": "1. This program is preventive",
+            "sub_modal_rules2": "2. Before using the app consult a doctor",
+            "sub_modal_rules3": "3. The company is not responsible if you have not received the desired result",
+            "sub_modal_rules_accept": "I confirm that I have read and accept the terms and conditions",
+        },
+        "MainScreen": {
+            "title": "Select the type of sound system",
+            "simple": "Simple player",
+            "advanced": "Advanced player"
+        },
+        "SelectCategory": {
+            "title": "Select the category"
+        },
+        "CourseList": {
+            "category": "Сategory",
+            "beauty": "Beauty",
+            "course": "Course",
+            "list": "Tone generator list"
+        },
+        "SoundList": {
+            "title": "Tone list",
+            "search": "Search",
+            "course": "Course",
+            "btn": "Whitening standart",
+            "placeholder": "Search by name or part of the name"
+        },
+        "AdvancedPlayer": {
+            "create": "Create",
+            "edit": "Edit",
+            "category": "Category",
+            "delete": "Delete",
+            "placeholder": "Enter name",
+            "course": "Course",
+            "done": "Done",
+            "copy": "Copy program",
+            "paste": "Paste program",
+            "sound_error1": "Sound playback error occurred",
+            "sound_error2": "Report the problem to your agent",
+            "sound_failed1": "Failed to load sound",
+            "sound_failed2": "Check your internet connection",
+            "btn_accept": "Agree",
+            "individual": "Individual",
+            "page": "My page",
+            "change": "Change Language",
+            "playlist": "My playlist",
+            "record": "Individual record",
+            "list": "Tone generator list"
+        },
+        "UserMenu": {
+            "menu": "Menu",
+            "info": "Client Info",
+            "coupons": "Coupons",
+            "history": "Purchase history",
+            "suggestion": "Your suggestion",
+            "exit": "Exit"
+
+        },
+        "MyPageScreen": {
+            "title": "My page",
+            "name": "Your name",
+            "date": "Birth date",
+            "mail": "E-mail",
+            "phone": "Phone number",
+            "address": "Address",
+            "blood": "Blood Type",
+            "save": "Save"
+        },
+        "Coupons": {
+            "title": "Coupons"
+        },
+        "CouponsPrice": {
+            "days": "1 DAY",
+            "price": "¥44 000"
+        },
+        "Suggestions": {
+            "title": "Tell us about your experience",
+            "subtitle": "Choose your question category",
+            "btn1": "Financial question",
+            "btn2": "Financial question"
+        },
+        "PurchaseHistory": {
+            "header_title": "Purchase history",
+            "header_date": "Purchase date",
+            "header_name": "Name",
+            "header_duration": "Duration",
+            "header_price": "Price",
+            "name": "Salon Pack",
+            "duration": "1 month",
+            "price": "¥5 000"
+        },
+        "CouponsDetail": {
+            "price": "¥44 000",
+            "days": "1 DAYS",
+            "btn": "SUBSCRIBE",
+            "title": "Beauty&Salon Pack",
+            "subtitle": "Terms and conditions",
+            "rules1": "1. This program is preventive",
+            "rules2": "2. Before using the app consult a doctor",
+            "rules3": "3. The company is not responsible if you have not received the desired result",
+            "rules_accept": "I confirm that I have read and accept the terms and conditions"
+        }
+    }
+}
